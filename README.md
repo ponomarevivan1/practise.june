@@ -1,2 +1,2 @@
-# Производственная практика (июнь 2023)
-В Repo представлены файлы по производственным практикам ПП 01.01 и ПП 03.01
+# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
